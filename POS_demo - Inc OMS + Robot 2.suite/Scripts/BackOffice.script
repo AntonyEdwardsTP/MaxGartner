@@ -6,7 +6,7 @@ SetDeviceOrientation "LandscapeRight"
 
 LaunchApp "Epos Now Till"
 
-if imagefound(3,"AlreadyacustomerExistingCustom") then
+if imagefound(2,"AlreadyacustomerExistingCustom") then
 	click (image:"AlreadyacustomerExistingCustom")
 end if
 
